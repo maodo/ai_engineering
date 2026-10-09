@@ -1,0 +1,10 @@
+[project]
+name = "agentic-ai"
+version = "0.1.0"
+description = "Learning playground for agentic AI patterns (agent loop, tools, etc.)"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "openai>=1.0.0",
+    "pydantic-settings>=2.15.0",
+]
