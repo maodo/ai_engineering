@@ -11,6 +11,7 @@ how to run it, and the design choices ("the why").
 | Folder                   | Concept               | Status |
 | ------------------------ | --------------------- | ------ |
 | `foundations/agent_loop` | Agent loop: an LLM that calls tools and iterates until it answers | ✅ |
+| `foundations/async-agent-loop` | Async agent loop: parallel tool calls within one model response | ✅ |
 | `effective-agents/01-prompt-chaining` | Prompt chaining: outline → quality gate → write → translate | ✅ |
 
 ## Setup
